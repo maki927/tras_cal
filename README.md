@@ -1,2 +1,2 @@
 # tras_cal
-X-ray transmission calculation tool
+X線の透過率を計算するプログラムです。
