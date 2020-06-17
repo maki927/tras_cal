@@ -1,0 +1,6 @@
+formula:SeTe;
+density:2.698;
+thickness:200;
+Energy_min:5000;
+Energy_inter:1000;
+Energy_max:35000;
